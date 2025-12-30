@@ -1,6 +1,6 @@
 const text = [
   "Web Developer",
-  "AI & ML Explorer",
+  "AI & ML Enthusiast",
   "IoT Innovator"
 ];
 
@@ -51,3 +51,4 @@ document.querySelectorAll(".card-3d").forEach(card => {
     card.style.transform = "rotateX(0) rotateY(0)";
   });
 });
+
